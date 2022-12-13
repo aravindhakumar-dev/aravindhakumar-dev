@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aravindhakumar-dev
-- 👀 I’m interested in Full-Stack Web Developer as Software developer
+- 👀 I’m interested in Full-Stack Web Developer
 - 🌱 I’m currently learning PHP,Laravel and React JS
 - 💞️ I’m looking to collaborate for any type of website development and web app development with freelance/ part time
-- 😎 Experienced in Complete WordPress and custom web development , ecommerce WordPress, WooCommerce , Cloud servers (AWS,Google, Azure and DigitalOcean), and web designing
+- 😎 Experienced in Complete WordPress web development and custom web development , WooCommerce , Cloud servers (AWS,Google, Azure and DigitalOcean), and web designing(Figma)
 
 - 📫 How to reach me 
 - Email: aravindhakumar.dev@yahoo.com
