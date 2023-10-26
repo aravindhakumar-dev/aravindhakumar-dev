@@ -1,15 +1,29 @@
-- 👋 Hi, I’m @aravindhakumar-dev
-- 👀 I’m interested in Full-Stack Web Developer
-- 🌱 I’m currently learning PHP,Laravel and React JS
-- 💞️ I’m looking to collaborate for any type of website development and web app development with freelance/ part time
-- 😎 Experienced in Complete WordPress web development and custom web development , WooCommerce , Cloud servers (AWS,Google, Azure and DigitalOcean), and web designing(Figma)
+# Aravindhakumar - Web Developer & WordPress Expert
 
-- 📫 How to reach me 
-- Email: aravindhakumar.dev@yahoo.com
-- 📞 Normal call / WhatsApp:+91 8838361423
+🚀 Welcome to my corner of the web, where I bring your ideas to life!
 
+## About Me
 
-<!---
-aravindhakumar-dev/aravindhakumar-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 I'm Aravindhakumar, a passionate Web Developer and a WordPress Guru on a journey of constant improvement.
+
+## 💻 Technologies I've Mastered
+
+- WordPress 📝
+- WooCommerce 🛒
+- Bootstrap 🎨
+- WordPress PHP & phpmyadmin 🧙 
+- MySQL 🗃️
+- HTML 🧰 & CSS 🖌️
+- JavaScript 🚀
+- GSAP JS 🌀
+- Cloud Hosting(AWS,Digital Ocean and MS Azure) ☁️
+- SSL/Web Security 🔒
+
+## 📚 Learning & Growth
+
+🌱 I'm currently in the learning phase, enhancing my skills with Next.js.
+
+## Get in Touch
+
+- 📧 Email: aravindhakumar.dev@gmail.com
+- 🌐 Portfolio: aravindhakumar.dev
