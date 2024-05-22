@@ -28,4 +28,4 @@
 ## Get in Touch
 
 - 📧 Email: aravindhakumar.dev@gmail.com
-- 🌐 Portfolio: aravindhakumar.dev
+- 🌐 Portfolio: https://aravindhakumar.dev/
