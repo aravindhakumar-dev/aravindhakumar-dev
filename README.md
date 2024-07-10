@@ -1,4 +1,4 @@
-# Aravindhakumar - Freelance Web Developer/ WordPress Expert
+# Aravindhakumar - Freelance Web Developer
 
 🚀 Welcome to my corner of the web, where I bring your ideas to life!
 
