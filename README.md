@@ -1,4 +1,4 @@
-# Aravindhakumar - Freelance Web Developer
+# Aravindhakumar - Web Developer/ WORDPRESS EXPERT
 
 🚀 Welcome to my corner of the web, where I bring your ideas to life!
 
