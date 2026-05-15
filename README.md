@@ -21,55 +21,13 @@ With experience across frontend development, backend integrations, cloud hosting
 
 ## Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
-
-### Backend & Database
-- PHP
-- MySQL
-- REST APIs
-- JSON
-
-### CMS & eCommerce
-- WordPress
-- WooCommerce
-- Shopify
-- Elementor
-- Divi
-- WP Bakery
-- Beaver Builder
-
-### Hosting & Deployment
-- AWS
-- DigitalOcean
-- Netlify
-- Cloudways
-- Firebase
-- cPanel
-- Git & GitHub
-
----
-
-## Specializations
-
-- Custom WordPress Development
-- WooCommerce Store Development
-- Shopify Store Customization
-- Next.js Web Applications
-- Website Performance Engineering
-- Technical SEO Optimization
-- Website Migration & Deployment
-- Core Web Vitals Optimization
-- Website Security & Maintenance
-- API Integration & Automation
-
+| Category | Technologies |
+|---|---|
+| Frontend | HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap |
+| Backend & Database | PHP, MySQL, REST APIs, JSON |
+| CMS & eCommerce | WordPress, WooCommerce, Shopify, Elementor, Divi, WP Bakery, Beaver Builder |
+| Hosting & Deployment | AWS, DigitalOcean, Netlify, Cloudways, Firebase, cPanel, Git & GitHub |
+| Specializations | Custom WordPress Development, WooCommerce Store Development, Shopify Store Customization, Next.js Web Applications, Website Performance Engineering, Technical SEO Optimization, Website Migration & Deployment, Core Web Vitals Optimization, Website Security & Maintenance, API Integration & Automation |
 ---
 
 ## Experience Highlights
